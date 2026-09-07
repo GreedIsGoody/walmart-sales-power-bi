@@ -78,11 +78,4 @@ DIVIDE(
     0
 )
 ```
-📁 Repository Structure
-walmart-sales-powerbi/
-├── assets/
-│   ├── dashboard_full.png           # Executive overview screenshot
-│   ├── dashboard_store20.png        # Top store filtered screenshot
-│   └── dashboard_decomposition.png  # Root-cause analysis screenshot
-├── Walmart_Sales.pbix               # Main interactive Power BI report
-└── README.md                        # Documentation
+
